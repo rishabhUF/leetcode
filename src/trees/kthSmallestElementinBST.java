@@ -22,13 +22,6 @@ public class kthSmallestElementinBST {
 
 		helper(root.right,index,res);
 	}
-	// This method helps to find the kth smallest element in o(h) where
-	// h is the height of the tree.
-	public int getKthSmallest2(TreeNode root, int k) {
-		if(root == null || k < 0) return -1;
-
-
-	}
 	public static void main(String[] args) {
 		TreeNode root = new TreeNode(20);
 		root.left = new TreeNode(10);
