@@ -1,0 +1,8 @@
+
+Wsquid:S1854-"9Remove this useless assignment to local variable "index".(”©ùõ8ÈèÒ²›-
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Ïâîå8¹Ö²›-
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¼ïÕşÿÿÿÿ8²®Õ²›-
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ãÏŠ8ÄèÕ²›-
+Dsquid:S1168!"&Return an empty array instead of null.(¥¹ï8ÈèÒ²›-
+]squid:S1118":Add a private constructor to hide the implicit public one.(€Ì¼ãûÿÿÿÿ8Ü¾Ö²›-
+vsquid:ModifiersOrderCheck)"EReorder the modifiers to comply with the Java Language Specification.(İõÀ†ùÿÿÿÿ8Ü¾Ö²›-
