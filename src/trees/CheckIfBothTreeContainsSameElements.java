@@ -34,20 +34,20 @@ public class CheckIfBothTreeContainsSameElements {
 
 	public static void main(String[] args) {
 		TreeNode root = null;
-		root = TreeNode.insert(root, 15);
-		root = TreeNode.insert(root,10);
-		root = TreeNode.insert(root,20);
-		root = TreeNode.insert(root,5);
-		root = TreeNode.insert(root,12);
-		root = TreeNode.insert(root,25);
-
+//		root = TreeNode.insert(root, 15);
+//		root = TreeNode.insert(root,10);
+//		root = TreeNode.insert(root,20);
+//		root = TreeNode.insert(root,5);
+//		root = TreeNode.insert(root,12);
+//		root = TreeNode.insert(root,25);
+//
 		TreeNode root2 = null;
-		root2 = TreeNode.insert(root2,15);
-		root2 = TreeNode.insert(root2,12);
-		root2 = TreeNode.insert(root2,20);
-		root2 = TreeNode.insert(root2,5);
-		root2 = TreeNode.insert(root2,10);
-		root2 = TreeNode.insert(root2,45);
+//		root2 = TreeNode.insert(root2,15);
+//		root2 = TreeNode.insert(root2,12);
+//		root2 = TreeNode.insert(root2,20);
+//		root2 = TreeNode.insert(root2,5);
+//		root2 = TreeNode.insert(root2,10);
+//		root2 = TreeNode.insert(root2,45);
 
 		if(checkIfBothTressContainsSameElements(root,root2)) {
 			System.out.println("Yes");
