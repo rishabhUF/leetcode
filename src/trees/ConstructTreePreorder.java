@@ -11,9 +11,25 @@ class TreeNode{
 		this.left = null;
 		this.right = null;
 	}
+
+	static TreeNode insert( TreeNode root, int key)
+	{
+		if (root == null)
+			return new TreeNode(key);
+		if (root.val > key)
+			root.left = insert(root.left, key);
+		else
+			root.right = insert(root.right, key);
+		return root;
+	}
 }
 class Index {
 	int index = 0;
+
+	public Index() {}
+	public Index(int index ) {
+		this.index = index;
+	}
 }
 
 class BinaryTree {
@@ -50,6 +66,8 @@ class BinaryTree {
 		System.out.print(node.val + " ");
 		printInorder(node.right);
 	}
+
+
 }
 
 public class ConstructTreePreorder {
