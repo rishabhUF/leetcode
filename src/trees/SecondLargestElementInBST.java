@@ -3,7 +3,7 @@ package trees;
 public class SecondLargestElementInBST {
 
 	int findSecondLargestElemt(TreeNode root) {
-		Index i = new Index(2);
+		Index i = new Index();
 		if(root == null) return -1;
 		int[] res = new int[1];
 		helper(root,i,res);

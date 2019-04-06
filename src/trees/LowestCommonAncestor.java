@@ -20,6 +20,9 @@ public class LowestCommonAncestor {
         return left!=null ? left : right;
     }
 
+    static TreeNode findLCA2(TreeNode root, int n1, int n2) {
+
+    }
     public static void main(String[] args) {
         TreeNode root = new TreeNode(1);
         root.left = new TreeNode(2);

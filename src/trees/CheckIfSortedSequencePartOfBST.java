@@ -1,6 +1,5 @@
 package trees;
 
-import static trees.TreeNode.insert;
 
 /*
 We take index as a iterator for given sorted sub-sequence and
@@ -30,19 +29,19 @@ public class CheckIfSortedSequencePartOfBST {
 	public static void main(String[] args) {
 		CheckIfSortedSequencePartOfBST checkIfSortedSequencePartOfBST = new CheckIfSortedSequencePartOfBST();
 		TreeNode root = null;
-		root = insert(root, 8);
-		root = insert(root, 10);
-		root = insert(root, 3);
-		root = insert(root, 6);
-		root = insert(root, 1);
-		root = insert(root, 4);
-		root = insert(root, 7);
-		root = insert(root, 14);
-		root = insert(root, 13);
+//		root = insert(root, 8);
+//		root = insert(root, 10);
+//		root = insert(root, 3);
+//		root = insert(root, 6);
+//		root = insert(root, 1);
+//		root = insert(root, 4);
+//		root = insert(root, 7);
+//		root = insert(root, 14);
+//		root = insert(root, 13);
 
 		int seq[] = {4, 6, 8, 12, 13};
 		int n = seq.length;
-		Index i = new Index(0);
+		Index i = new Index();
 		if(checkIfSortedSequencePartOfBST.checkIfSortedSequence(root, seq, i))
 			System.out.println("Yes");
 		else
