@@ -5,6 +5,7 @@ public class findDistanceBT {
     static int findDistanceBT(TreeNode root, int n1, int n2) {
         if(root == null)
             return -1;
+        return -1;
 
     }
 
@@ -20,7 +21,6 @@ public class findDistanceBT {
     }
 
     static TreeNode findLCA(TreeNode root, int n1, int n2) {
-        if(root == null)
-            return
+        return null;
     }
 }
