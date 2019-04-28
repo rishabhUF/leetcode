@@ -36,4 +36,8 @@ public class WaterJugProblem {
         }
         return false;
     }
+
+
+
+    // This question can also be solved using the GCD look into the proof of that the lemma.
 }
