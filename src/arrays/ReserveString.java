@@ -51,6 +51,39 @@ public class ReserveString {
         }
     }
 
+    // Merge two sorted array
+    public int[] merge(int[] arr1, int[] arr2) {
+        //edge cases
+        if(arr1 == null && arr2 == null)
+            return null;
+        if(arr1 == null)
+            return arr2;
+        if(arr2 == null)
+            return arr1;
+
+        int i = 0, j= 0, k=0;
+        int[] result = new int[arr1.length + arr2.length];
+        while(i < arr1.length && j < arr2.length) {
+            if(arr1[i] < arr2[j]) {
+                result[k++] = arr1[i];
+                i++;
+            } else {
+                result[k++] = arr2[j];
+                j++;
+            }
+        }
+        while(i<arr1.length) {
+            result[k++] = arr1[i];
+            i++;
+        }
+        while(j<arr2.length) {
+            result[k++] = arr2[j];
+            j++;
+        }
+        return result;
+    }
+
+
     public static void main(String[] args) {
         ReserveString reserveString = new ReserveString();
         ArrayList<Character> characters = new ArrayList<>(Arrays.asList('a', 'b', 'c', 'd'));
@@ -61,6 +94,8 @@ public class ReserveString {
         reserveString.reverse_words(words);
         words.forEach(c -> System.out.print(c));
 
-
+        //merge two sorted array
+        int[] merged = reserveString.merge(new int[]{1,3,5,7}, new int[]{2});
+        Arrays.stream(merged).forEach(i -> System.out.print(i + " "));
     }
 }

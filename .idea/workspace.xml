@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1135da98-d4ec-4d26-8f7a-cf86fe65dfff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/trees/LargestSubtreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/CakeShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingInterviewPatterns/slidingWindow/LongestSubstringKDistinct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingInterviewPatterns/slidingWindow/MaxSumSubArrayOfSizeK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codingInterviewPatterns/slidingWindow/MinSizeSubArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/Singleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/trees/BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/trees/ConstructTreePreorder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/trees/Index.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/trees/LowestCommonAncestor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/trees/Todos" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/trees/Todos" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/trees/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trees/LowestCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trees/LowestCommonAncestor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trees/findDistanceBT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trees/findDistanceBT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/ReserveString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/ReserveString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphs/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphs/Graph.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,41 +25,74 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/trees/LowestCommonAncestor.java">
+        <entry file="file://$PROJECT_DIR$/src/arrays/ReserveString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+            <state relative-caret-position="1425">
+              <caret line="97" column="74" selection-start-line="97" selection-start-column="74" selection-end-line="97" selection-end-column="74" />
               <folding>
-                <element signature="e#542#543#0" expanded="true" />
-                <element signature="e#569#570#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/trees/Todos">
+        <entry file="file://$PROJECT_DIR$/src/arrays/CakeShop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+            <state relative-caret-position="105">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="17" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/trees/findDistanceBT.java">
+        <entry file="file://$PROJECT_DIR$/src/design/Singleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+            <state relative-caret-position="235">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="e#115#116#0" expanded="true" />
+                <element signature="e#148#149#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/codingInterviewPatterns/slidingWindow/MaxSumSubArrayOfSizeK.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/trees/LargestSubtreeSum.java">
+        <entry file="file://$PROJECT_DIR$/src/codingInterviewPatterns/slidingWindow/MinSizeSubArraySum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <state relative-caret-position="257">
+              <caret line="18" column="25" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="18" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/codingInterviewPatterns/slidingWindow/LongestSubstringKDistinct.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="24" column="77" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -104,6 +136,16 @@
         <option value="$PROJECT_DIR$/src/trees/LowestCommonAncestor.java" />
         <option value="$PROJECT_DIR$/src/trees/findDistanceBT.java" />
         <option value="$PROJECT_DIR$/src/trees/LargestSubtreeSum.java" />
+        <option value="$PROJECT_DIR$/src/graphs/CountNumberOfTreesInForest.java" />
+        <option value="$PROJECT_DIR$/src/graphs/Graph.java" />
+        <option value="$PROJECT_DIR$/src/arrays/ReserveString.java" />
+        <option value="$PROJECT_DIR$/src/arrays/CakeShop.java" />
+        <option value="$PROJECT_DIR$/src/design/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/design/Service.java" />
+        <option value="$PROJECT_DIR$/src/design/Main.java" />
+        <option value="$PROJECT_DIR$/src/codingInterviewPatterns/slidingWindow/MaxSumSubArrayOfSizeK.java" />
+        <option value="$PROJECT_DIR$/src/codingInterviewPatterns/slidingWindow/MinSizeSubArraySum.java" />
+        <option value="$PROJECT_DIR$/src/codingInterviewPatterns/slidingWindow/LongestSubstringKDistinct.java" />
       </list>
     </option>
   </component>
@@ -117,7 +159,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -135,26 +176,13 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="trees" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="trees" type="462c0819:PsiDirectoryNode" />
-              <item name="ConstructTreePreorder.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="trees" type="462c0819:PsiDirectoryNode" />
-              <item name="ContructBSTOrderTraversal.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="slidingWindow" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,13 +203,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LowestCommonAncestor">
-    <configuration name="CheckOnlyOneChildBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trees.CheckOnlyOneChildBST" />
+  <component name="RunManager" selected="Application.LongestSubstringKDistinct">
+    <configuration name="LongestSubstringKDistinct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingInterviewPatterns.slidingWindow.LongestSubstringKDistinct" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trees.*" />
+          <option name="PATTERN" value="codingInterviewPatterns.slidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContructBSTOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trees.ContructBSTOrderTraversal" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.Main" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trees.*" />
+          <option name="PATTERN" value="design.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LowestCommonAncestor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trees.LowestCommonAncestor" />
+    <configuration name="MaxSumSubArrayOfSizeK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingInterviewPatterns.slidingWindow.MaxSumSubArrayOfSizeK" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trees.*" />
+          <option name="PATTERN" value="codingInterviewPatterns.slidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,12 +243,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="checkBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trees.checkBST" />
+    <configuration name="MinSizeSubArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingInterviewPatterns.slidingWindow.MinSizeSubArraySum" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trees.*" />
+          <option name="PATTERN" value="codingInterviewPatterns.slidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,12 +256,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="kthSmallestElementinBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trees.kthSmallestElementinBST" />
+    <configuration name="Singleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.Singleton" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trees.*" />
+          <option name="PATTERN" value="design.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,19 +270,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.checkBST" />
-      <item itemvalue="Application.CheckOnlyOneChildBST" />
-      <item itemvalue="Application.kthSmallestElementinBST" />
-      <item itemvalue="Application.ContructBSTOrderTraversal" />
-      <item itemvalue="Application.LowestCommonAncestor" />
+      <item itemvalue="Application.Singleton" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.MaxSumSubArrayOfSizeK" />
+      <item itemvalue="Application.MinSizeSubArraySum" />
+      <item itemvalue="Application.LongestSubstringKDistinct" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LowestCommonAncestor" />
-        <item itemvalue="Application.ContructBSTOrderTraversal" />
-        <item itemvalue="Application.kthSmallestElementinBST" />
-        <item itemvalue="Application.CheckOnlyOneChildBST" />
-        <item itemvalue="Application.checkBST" />
+        <item itemvalue="Application.LongestSubstringKDistinct" />
+        <item itemvalue="Application.MinSizeSubArraySum" />
+        <item itemvalue="Application.MaxSumSubArrayOfSizeK" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Singleton" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +303,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08723748" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16235864" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -284,16 +312,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.49041095" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.30444205" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.49041095" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3041096" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="SonarLint" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.22376238" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.31782177" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32871288" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32739726" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -304,6 +332,36 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15751211" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3041096" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41095892" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="SonarLint" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.50547945" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32871288" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Jenkins" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -327,6 +385,12 @@
           <line>16</line>
           <properties />
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codingInterviewPatterns/slidingWindow/MaxSumSubArrayOfSizeK.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -542,6 +606,156 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphs/CountNumberOfNodesAtGivenLevel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="37" column="32" selection-start-line="30" selection-start-column="8" selection-end-line="37" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphs/CountAllPossiblePathsBetweenTwoVertices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphs/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="49" column="15" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphs/ShortestPathToReachPrimeFromAnother.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphs/WaterJugProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="41" column="92" selection-start-line="41" selection-start-column="92" selection-end-line="41" selection-end-column="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphs/CountNumberOfTreesInForest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphs/FindLevelOfNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="44" column="60" selection-start-line="38" selection-start-column="8" selection-end-line="44" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphs/PathInRectangleWithCircles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graphs/MinimumNumberOfEdgesBetweenTwoVerticesGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays/MergeIntervals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#932#933#0" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays/Tuple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays/ReserveString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="97" column="74" selection-start-line="97" selection-start-column="74" selection-end-line="97" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays/CakeShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codingInterviewPatterns/slidingWindow/MaxSumSubArrayOfSizeK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codingInterviewPatterns/slidingWindow/LongestSubstringKDistinct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="24" column="77" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codingInterviewPatterns/slidingWindow/MinSizeSubArraySum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="18" selection-end-column="25" />
         </state>
       </provider>
     </entry>

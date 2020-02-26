@@ -46,4 +46,7 @@ public class Graph {
         graph.addEdge(graph, 3, 4);
         graph.printGraph(graph);
     }
+
+    public void addDirectionalEdge(Graph g, int i, int i1) {
+    }
 }
